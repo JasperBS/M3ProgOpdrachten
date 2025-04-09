@@ -11,6 +11,7 @@ $naw = "s";
 $kleurVanAuto = "s";
 //$software-dev = "s";
 
+//degene die werken zijn hieronder
 echo $kleurVanAuto;
 echo $auto2;
 echo $_naam;

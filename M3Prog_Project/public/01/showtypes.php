@@ -28,4 +28,4 @@ echo "Huisnummer: " , $huisnummer , "<br>";
 echo "Geslaagd voor rijbewijs: " , ($geslaagdVoorRijbewijs ? "Ja" : "Nee") , "<br>";
 echo "Prijs per liter Euro 95 benzine: €" , number_format($prijsBenzine, 2) , "<br>";
 
-?>
+        ?>
